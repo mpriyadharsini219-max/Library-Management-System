@@ -1,0 +1,11 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Text data file
+library.txt
+
+# OS files
+.DS_Store
+Thumbs.db
